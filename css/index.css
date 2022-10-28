@@ -47,7 +47,7 @@ body{
 }
 .pipeup{
     position: absolute;
-    background-image: url(../image/pipeup.png);
+    background-image: url(../image/pipeUp.png);
     bottom: 0;
 }
 .bird{
